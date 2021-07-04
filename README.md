@@ -1,6 +1,6 @@
 # youtube-search
 
-This is a functuin to query on YOUTUBE
+This is a function to query on YOUTUBE
 
 Make sure that you have Node.js on your machines
  
